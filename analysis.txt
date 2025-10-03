@@ -1,0 +1,29 @@
+Project: Simple Login Page
+Subject: Open-Source Tools for Project Development
+
+Team Members:
+1.Pratik Kothare
+2. Shivam Patle
+
+Tools Used:
+- HTML, CSS, JavaScript for frontend
+- Git & GitHub for collaboration and version control
+
+Steps Followed:
+1. Created GitHub repository.
+2. Initialized project with HTML, CSS, and JS files.
+3. Created separate branches for each member:
+   - member1: worked on HTML & CSS
+   - member2: worked on JavaScript
+4. Used "git add, commit, push" after every change.
+5. Created Pull Requests and merged changes into main branch.
+6. Deployed project on GitHub Pages.
+
+Learning Outcomes:
+- Learned how to collaborate on GitHub using branches and commits.
+- Understood how to host static websites using GitHub Pages.
+- Practiced version control in real-time teamwork.
+
+Login Credentials for demo:
+- Username: admin
+- Password: 12345
