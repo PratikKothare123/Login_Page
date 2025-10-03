@@ -26,4 +26,4 @@ Learning Outcomes:
 
 Login Credentials for demo:
 - Username: admin
-- Password: 12345
+- Password: 123
