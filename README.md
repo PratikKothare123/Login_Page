@@ -37,7 +37,7 @@ All feature work was completed in dedicated branches, reviewed via **Pull Reques
 
 
 
-5. Getting Started (Local Setup)
+5. Getting Started 
 
 ## ⚙️ How to Run Locally
 
